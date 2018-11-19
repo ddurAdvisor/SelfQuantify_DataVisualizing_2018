@@ -12,10 +12,10 @@ https://github.com/ddurAdvisor/SelfQuantify_DataVisualizing_2018
 
 ## 开发环境下载链接：  
 processing 3.4 win64  
-链接: https://pan.baidu.com/s/10ZL1iaeqf3rlid7tphIhJQ 提取码: 见微信消息  
+链接: https://pan.baidu.com/s/1dvhPiiKl6EbiLSCCadq4kA 提取码: am2g  
 
 processing 3.4 macOS  
-链接: https://pan.baidu.com/s/1DiZYrcaOjjnQZxVc-CGMfg 提取码: 见微信消息  
+链接: https://pan.baidu.com/s/1pLNFwQSh2AHk0obu-QAkNA 提取码: px5r  
 
 ## 专用字体下载：
-链接：http://pan.baidu.com/s/1kV6mpfh 提取码: 见微信消息
+链接: https://pan.baidu.com/s/1mmFiICIebDaXGH__XucK1Q 提取码: uh2n
